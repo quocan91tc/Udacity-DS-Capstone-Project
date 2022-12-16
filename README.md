@@ -22,6 +22,11 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 pip install -r requirements.txt
 ```
 
+## Files Description
+- 01 notebook that expalained my work related to the questions proposed
+- The bottleneck_features folder contains the VGG16 and ResNet50 pre-trained weights
+- Saved_models folder is the place of my trained models
+
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
@@ -35,4 +40,8 @@ cd dog-project
 3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
 4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
+
+### Results
+### Achknowlegdements
+Thank Udacity for this superb project
 
